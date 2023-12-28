@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shnider, an <a href="https://linkedin.com/in/Shnider-baptiste">IT Professional</a>☺</h1>
+<h1>Hi, I'm Shnider, an <a href=https://www.linkedin.com/in/shnider-baptiste-56114728b/>IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
