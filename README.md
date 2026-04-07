@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shnider, an <a href="https://linkedin.com/in/Shnider">Entry-Level IT & Cybersecurity Professional ☺🔐</a>☺</h1>
+<h1>Hi, I'm Shnider, an <a href="https://linkedin.com/in/Shnider">Entry-Level IT & Cybersecurity Professional ☺</a>☺</h1>
 
  Hi, I'm Shnider! 👋
 
