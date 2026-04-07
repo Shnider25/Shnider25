@@ -29,7 +29,10 @@ An Entry-Level IT & Cybersecurity Professional with hands-on experience in help 
 
 ## 📜 Certifications
 
-- 🔄 **Google Cybersecurity Certificate** *(In Progress — Coursera)*
+✅ CourseCareers IT Professional
+🔄 Google Cybersecurity Certificate (In Progress — Coursera)
+🔄 CompTIA A+ (In Progress – Expected 06/2026)
+
 
 ---
 
