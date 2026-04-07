@@ -48,14 +48,6 @@ An Entry-Level IT & Cybersecurity Professional with hands-on experience in help 
 
 ---
 
-*Currently open to entry-level IT Security and Help Desk Security opportunities.*
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Shnider25/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Shnider25/osTicket-Post-Instal)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/Shnider25/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Shnider25/azure-network-protocols)
-
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
