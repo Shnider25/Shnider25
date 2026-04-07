@@ -44,12 +44,7 @@ An Entry-Level IT & Cybersecurity Professional with hands-on experience in help 
 ---
 
 
----
-
 *Currently open to entry-level IT Security and Help Desk Security opportunities.*
-
-## 🤳 Connect with Me
-
 
 ---
 
