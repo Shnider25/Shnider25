@@ -10,7 +10,7 @@ An Entry-Level IT & Cybersecurity Professional with hands-on experience in help 
 
 | Project | Skills Covered |
 |---|---|
-| [Linux File Permissions Management](https://github.com/YOUR_USERNAME/linux-file-permissions-lab) | Linux CLI, chmod, ls -la, Principle of Least Privilege |
+| [Linux File Permissions Management]([https://github.com/YOUR_USERNAME/linux-file-permissions-lab](https://github.com/Shnider25/Linux-file-permissions-lab)) | Linux CLI, chmod, ls -la, Principle of Least Privilege |
 | *More projects coming soon...* | |
 
 ---
