@@ -18,12 +18,12 @@ An Entry-Level IT & Cybersecurity Professional with hands-on experience in help 
 ## 💻 IT Projects
 
 **osTicket (Help Desk Ticketing System)**
-- [osTicket: Prerequisites and Installation](https://github.com/YOUR_USERNAME/osticket-prereqs)
-- [osTicket: Post-Installation Configuration](https://github.com/YOUR_USERNAME/post-install-config)
+- [osTicket: Prerequisites and Installation](https://github.com/Shnider25/osticket-prereqs)
+- [osTicket: Post-Installation Configuration](https://github.com/Shnider25/post-install-config)
 
 **Microsoft Azure**
-- [Configuring Active Directory within Azure VMs](https://github.com/YOUR_USERNAME/configure-ad)
-- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/YOUR_USERNAME/azure-network-protocols)
+- [Configuring Active Directory within Azure VMs](https://github.com/Shnider25/configure-ad)
+- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Shnider25/azure-network-protocols)
 
 ---
 
