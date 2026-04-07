@@ -1,7 +1,63 @@
-<h1>Hi, I'm Shnider, an <a href="https://linkedin.com/in/Shnider">IT Professional</a>☺</h1>
+<h1>Hi, I'm Shnider, an <a href="https://linkedin.com/in/Shnider">Entry-Level IT & Cybersecurity Professional ☺🔐</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+ Hi, I'm Shnider! 👋
 
+An Entry-Level IT & Cybersecurity Professional with hands-on experience in help desk systems, cloud infrastructure, and Active Directory. I'm actively building my cybersecurity skill set through the Google Cybersecurity Certificate and real-world labs and portfolio projects. Currently open to entry-level opportunities in IT Support and Cybersecurity.
+
+---
+
+## 🔐 Cybersecurity Projects
+
+| Project | Skills Covered |
+|---|---|
+| [Linux File Permissions Management](https://github.com/YOUR_USERNAME/linux-file-permissions-lab) | Linux CLI, chmod, ls -la, Principle of Least Privilege |
+| *More projects coming soon...* | |
+
+---
+
+## 💻 IT Projects
+
+**osTicket (Help Desk Ticketing System)**
+- [osTicket: Prerequisites and Installation](https://github.com/YOUR_USERNAME/osticket-prereqs)
+- [osTicket: Post-Installation Configuration](https://github.com/YOUR_USERNAME/post-install-config)
+
+**Microsoft Azure**
+- [Configuring Active Directory within Azure VMs](https://github.com/YOUR_USERNAME/configure-ad)
+- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/YOUR_USERNAME/azure-network-protocols)
+
+---
+
+## 📜 Certifications
+
+- 🔄 **Google Cybersecurity Certificate** *(In Progress — Coursera)*
+
+---
+
+## 🛠️ Skills
+
+**Cybersecurity**
+`Linux` `File Permissions` `SIEM` `Network Security` `Incident Response` `Security Frameworks`
+
+**IT & Infrastructure**
+`Active Directory` `Microsoft Azure` `Help Desk Support` `osTicket` `Network Protocols` `Windows Server`
+
+---
+
+## 🤳 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+---
+
+*Currently open to entry-level IT Security and Help Desk Security opportunities.*
+
+## 🤳 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+---
+
+*Currently open to entry-level IT Security and Help Desk Security opportunities.*
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Shnider25/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Shnider25/osTicket-Post-Instal)
