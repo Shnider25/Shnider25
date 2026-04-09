@@ -11,6 +11,7 @@ An Entry-Level IT & Cybersecurity Professional with hands-on experience in help 
 | Project | Skills Covered |
 |---|---|
 | [Linux File Permissions Management](https://github.com/Shnider25/Linux-file-permissions-lab) | Linux CLI, chmod, ls -la, Principle of Least Privilege |
+| [Proxmox + Docker Home Lab](https://github.com/Shnider25/-Proxmox-Docker-Home-Lab) | Virtualization, Containerization, Linux Administration, Networking, Self-Hosting, Infrastructure Setup |
 | *More projects coming soon...* | |
 
 ---
