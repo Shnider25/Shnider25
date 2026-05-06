@@ -19,7 +19,7 @@ An Entry-Level IT & Cybersecurity Professional with hands-on experience in help 
 ## 💻 IT Projects
 
 **ServiceNow ITSM Helpdesk Lab**
-- [SB Studio IT Service Desk — Incident Management, Priority Classification, Full Ticket Lifecycle](https://github.com/Shnider25/ServiceNow-Helpdesk-Lab)
+- [ServiceNow Helpdesk Lab — IT Service Desk — Incident Management, Priority Classification, Full Ticket Lifecycle](https://github.com/Shnider25/ServiceNow-Helpdesk-Lab)
 
 **osTicket (Help Desk Ticketing System)**
 - [osTicket: Prerequisites and Installation](https://github.com/Shnider25/osticket-prereqs)
