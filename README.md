@@ -18,6 +18,9 @@ An Entry-Level IT & Cybersecurity Professional with hands-on experience in help 
 
 ## 💻 IT Projects
 
+**ServiceNow ITSM Helpdesk Lab**
+- [SB Studio IT Service Desk — Incident Management, Priority Classification, Full Ticket Lifecycle](https://github.com/Shnider25/ServiceNow-Helpdesk-Lab)
+
 **osTicket (Help Desk Ticketing System)**
 - [osTicket: Prerequisites and Installation](https://github.com/Shnider25/osticket-prereqs)
 - [osTicket: Post-Installation Configuration](https://github.com/Shnider25/post-install-config)
@@ -28,16 +31,17 @@ An Entry-Level IT & Cybersecurity Professional with hands-on experience in help 
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Educations
 
 -✅ CourseCareers IT Professional
 
 -🔄 Google Cybersecurity Certificate (In Progress — Coursera)
 
--🔄 CompTIA A+ (In Progress – Expected 06/2026)
+-🔄 Valencia College: Associate in Science Degree (AS: Cybersec & Network Eng Tech) (In Progress)
 
 
 ---
+
 
 ## 🛠️ Skills
 
@@ -45,7 +49,11 @@ An Entry-Level IT & Cybersecurity Professional with hands-on experience in help 
 `Linux` `File Permissions` `SIEM` `Network Security` `Incident Response` `Security Frameworks`
 
 **IT & Infrastructure**
-`Active Directory` `Microsoft Azure` `Help Desk Support` `osTicket` `Network Protocols` `Windows Server`
+`Active Directory` `Microsoft Azure` `Help Desk Support` `osTicket` `ServiceNow` `ITSM` `Incident Management` `Network Protocols` `Windows Server`
+
+**Homelab & Self-Hosting**
+`Proxmox VE` `TrueNAS SCALE` `Docker` `Nextcloud` `Tailscale` `Nginx Proxy Manager`
+
 
 ---
 
